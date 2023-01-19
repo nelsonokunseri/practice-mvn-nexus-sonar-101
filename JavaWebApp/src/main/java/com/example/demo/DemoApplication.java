@@ -10,7 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		String name = "nelson";
-
+        string DBPassword =12345 
 		System.out.println(name);
 	}
 

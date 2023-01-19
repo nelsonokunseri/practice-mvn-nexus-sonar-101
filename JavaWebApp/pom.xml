@@ -64,3 +64,13 @@
   </distributionManagement>
 
 </project>
+
+
+
+####################################
+410455a1035eb897f52d72cea0b456fc0732896e
+
+mvn sonar:sonar \
+  -Dsonar.projectKey=Web-project \
+  -Dsonar.host.url=http://3.89.220.176:9000 \
+  -Dsonar.login=410455a1035eb897f52d72cea0b456fc0732896e
