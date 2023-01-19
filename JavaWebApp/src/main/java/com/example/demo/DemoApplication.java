@@ -11,7 +11,7 @@ public class DemoApplication {
 		        
 		String name = "nelson";
 
-		logger.log(name);
+		System.out.println(name);
 	}
 
 }
